@@ -3,7 +3,7 @@
     <TargetFramework>net461</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Autofac" Version="4.6.2" />
+    <PackageReference Include="Autofac" Version="4.9.4" />
     <PackageReference Include="Autofac.Extras.IocManager" Version="3.2.2" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.39" />
   </ItemGroup>
